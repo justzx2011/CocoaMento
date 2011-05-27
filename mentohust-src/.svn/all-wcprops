@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src
+END
+myfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/myfunc.c
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/auth.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/Makefile.in
+END
+myfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/myfunc.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/types.h
+END
+myconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/myconfig.c
+END
+dlfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/dlfunc.c
+END
+myconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/myconfig.h
+END
+dlfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/dlfunc.h
+END
+mycheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/mycheck.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/md5.c
+END
+myini.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/myini.c
+END
+mentohust.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/mentohust.c
+END
+mystate.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/mystate.c
+END
+mycheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/mycheck.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/Makefile.am
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/md5.h
+END
+myini.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/myini.h
+END
+mystate.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/mystate.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/114/trunk/CocoaMento-Src/mentohust-src/Makefile
+END
